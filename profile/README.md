@@ -2,7 +2,7 @@
 
 # iCampus Wildau 🧭
 
-The iCampus Wildau Group is a team of students and research assistants at the Technische Hochschule Wildau (University of Applied Sciences Wildau, Germany) under the direction of [Prof. Dr. Janett Mohnke](https://www.th-wildau.de/personen/janett-mohnke/).
+The iCampus Wildau Group is a team of students and research assistants at the Technische Hochschule Wildau (University of Applied Sciences Wildau, Germany) under the direction of [Prof. Dr. Janett Mohnke](https://www.th-wildau.de/personen/janett-mohnke/) who also represents the [Telematik](https://www.th-wildau.de/telematik) course at the TH Wildau.
 
 iCampus Wildau consists of 3 subgroups:
 - 💻**CampusLab** - Development of web-based tools and information structures on the university campus.
