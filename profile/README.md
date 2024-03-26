@@ -1,4 +1,4 @@
-![iCampus Wildau Logo](https://icampus.th-wildau.de/cms/sites/default/files/icampus-2020.svg)
+![iCampus Wildau Logo](https://github.com/icampus-wildau/.github/assets/14783129/dd714756-f224-4122-9b1d-a9afeab5b52c)
 
 # iCampus Wildau 🧭
 
