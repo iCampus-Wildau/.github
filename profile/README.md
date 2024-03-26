@@ -9,7 +9,7 @@ iCampus Wildau consists of 3 subgroups:
 - 🤖**RobotikLab** - Development and testing of scenarios in which humanoid robots are used in various areas of daily life.
 - 📚**Unidos Wildau Institut** - Development of individual mobile software applications for colleges and universities as well as other public institutions and libraries.
 
-
+To read more about us and what we do, check out [our website](https://icampus.th-wildau.de).
 
 
 ## Current Team
