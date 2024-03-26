@@ -1,3 +1,5 @@
+![iCampus Wildau Logo](https://icampus.th-wildau.de/cms/sites/default/files/icampus-2020.svg)
+
 # iCampus Wildau 🧭
 
 The iCampus Wildau Group is a team of students and research assistants at the Technische Hochschule Wildau (University of Applied Sciences Wildau, Germany) under the direction of [Prof. Dr. Janett Mohnke](https://www.th-wildau.de/personen/janett-mohnke/).
