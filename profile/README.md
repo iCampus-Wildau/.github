@@ -13,7 +13,11 @@ To read more about us and what we do, check out [our website](https://icampus.th
 
 
 ## Current Team
-- [Valentin Schröter (@vschroeter)](https://github.com/vschroeter)
+- Alfredo Azmitia [@aazmitia](https://github.com/aazmitia)
+- Oskar Lorenz [@oslo1817](https://github.com/oslo1817)
+- Janett Mohnke [@jmohnke](https://github.com/jmohnke)
+- Valentin Schröter [@vschroeter](https://github.com/vschroeter)
+- Henning Wiechers [@memisint](https://github.com/memisint)
 
 
 ## Former Contributers to the iCampus Wildau Repositories
