@@ -16,7 +16,7 @@ To read more about us and what we do, check out [our website](https://icampus.th
 - 
 
 
-## Former members
+## Former Contributers
 - 
 
 <!--
