@@ -13,7 +13,7 @@ To read more about us and what we do, check out [our website](https://icampus.th
 
 
 ## Current Team
-- 
+- [Valentin Schröter](https://github.com/vschroeter)
 
 
 ## Former Contributers to the iCampus Wildau Repositories
