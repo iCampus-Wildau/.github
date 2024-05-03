@@ -16,6 +16,7 @@ To read more about us and what we do, check out [our website](https://icampus.th
 - Alfredo Azmitia [@aazmitia](https://github.com/aazmitia)
 - Oskar Lorenz [@oslo1817](https://github.com/oslo1817)
 - Janett Mohnke [@jmohnke](https://github.com/jmohnke)
+- Christian Rockmann [@crockmann](https://github.com/crockmann)
 - Valentin Schröter [@vschroeter](https://github.com/vschroeter)
 - Henning Wiechers [@memisint](https://github.com/memisint)
 
